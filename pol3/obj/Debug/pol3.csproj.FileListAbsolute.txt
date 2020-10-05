@@ -1,0 +1,10 @@
+C:\Users\geobk\source\repos\pol3\pol3\bin\Debug\pol3.exe.config
+C:\Users\geobk\source\repos\pol3\pol3\bin\Debug\pol3.exe
+C:\Users\geobk\source\repos\pol3\pol3\bin\Debug\pol3.pdb
+C:\Users\geobk\source\repos\pol3\pol3\obj\Debug\pol3.csprojAssemblyReference.cache
+C:\Users\geobk\source\repos\pol3\pol3\obj\Debug\pol3.Form1.resources
+C:\Users\geobk\source\repos\pol3\pol3\obj\Debug\pol3.Properties.Resources.resources
+C:\Users\geobk\source\repos\pol3\pol3\obj\Debug\pol3.csproj.GenerateResource.cache
+C:\Users\geobk\source\repos\pol3\pol3\obj\Debug\pol3.csproj.CoreCompileInputs.cache
+C:\Users\geobk\source\repos\pol3\pol3\obj\Debug\pol3.exe
+C:\Users\geobk\source\repos\pol3\pol3\obj\Debug\pol3.pdb
